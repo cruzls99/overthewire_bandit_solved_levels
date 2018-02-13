@@ -1,1 +1,1 @@
-# overthewire_bandit_solved_levels
+# overthewire_solved_levels
